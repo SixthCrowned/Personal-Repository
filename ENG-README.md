@@ -1,0 +1,6 @@
+Here you can find everything what I have stored that I think is suitable for this repository
+If you have any questions or you would like to get a pure source of something from here, contact me by Email
+
+Updates:
+          08.06.2022 - Added a recreation of a German cipher machine "Enigma". This is a very raw project, but my main goal was to understand my possibilities and recreate the +- exact copy of it. Code is a real mess (for me it's ok xD), but I'm glad that I have done it by myself only. P.S. It works!11
+Actually even with the fact that I was aspired to recreate the exact same copy of it during the writing I have added the possibility of rotor's cipher rotation. This is not the real feature of this machine. Someday I will rework this project completely, because I like the idea that stands behind it. Also, right now I'm working to implement "Enigma" to my new map in VRChat. I want it to be the main idea of the map. I think this should be a really cool project, but I need to finish processing the visual aspect of it. This a long-term idea and it will take a long time :)
