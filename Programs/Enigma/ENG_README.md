@@ -1,0 +1,7 @@
+Enigma is a program that emulates the operation of a portable encryption machine used to encrypt and decrypt secret messages<br>
+--------------------------------------------------------------------------------------------------------------------------------
+The beauty of it is that when encrypting, it changing [the same character to different ones](https://github.com/SixthCrowned/Personal-Repository/blob/main/Enigma/ScreenShot2.png), which is why the most common decryption methods loosing their relevance<br>
+Which prompted me to an irresistible desire to recreate a working copy of it :)<br><br>
+The most difficult thing was to organize the process of "rotation" of the rotors and reverse decryption of the message. The code is terrible, in terms of writing, it works, it's ugly, but my main goal was not to improve the skills of writing code, but to achieve the creation of a working prototype<br>
+I made it possible to put the reflector and the rotors in different positions at will, after which it was only necessary to "fix" them, enter the phrase and receive [an encrypted message](https://github.com/SixthCrowned/Personal-Repository/blob/main/Enigma/ScreenShot3.png)<br>
+When decrypting, the received message must be entered in the input field, set the positions of the rotors to those that were when encrypting this message, and the output will be [initial message](https://github.com/SixthCrowned/Personal-Repository/blob/main/Enigma/ScreenShot4.png)
