@@ -1,8 +1,8 @@
 Here you can find my projects and their history<br/>
 If you have any questions or you would like to get a code (source) of something from here, contact me<br/>
-by Telegram: @SixthCrowned<br/>
-by Discord: SixthCrowned<br/>
-by Email: SixthCrowned@gmail.com<br/><br/>
+Telegram: @SixthCrowned<br/>
+Discord: SixthCrowned<br/>
+Email: SixthCrowned@gmail.com<br/><br/>
 
 History:<br/>
 &emsp;08.06.2022 - Added a recreation of a german cipher machine "Enigma"<br/>

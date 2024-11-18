@@ -1,8 +1,8 @@
 Здесь можно найти мои проекты и их историю<br/>
 По всем вопросам относительно данных проектов можно связаться со мной<br/>
-по Telegram: @SixthCrowned<br/>
-по Discord: SixthCrowned<br/>
-по Email: SixthCrowned@gmail.com<br/><br/>
+Telegram: @SixthCrowned<br/>
+Discord: SixthCrowned<br/>
+Email: SixthCrowned@gmail.com<br/><br/>
 
 История:<br/>
 &emsp;08.06.2022 - Добавлено воссоздание немецкой шифровальной машины "Энигма"<br/>
